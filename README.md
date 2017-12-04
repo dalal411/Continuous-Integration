@@ -10,7 +10,7 @@ times aday .
 
 # Why we use CI ?
 - CI can help you keep tabs on the health of your code base .
-- automatically monitroing code quality .
+- automatically monitoring  code quality .
 - automatically monitroing code coverge metrics .
 - keep technical dept down .
 - keep maintenance costs low.
